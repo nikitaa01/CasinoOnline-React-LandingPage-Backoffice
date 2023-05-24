@@ -1,0 +1,85 @@
+{
+    "nav": {
+        "home": "Pixel Casino",
+        "buy": "Comprar",
+        "login": "Iniciar sesión",
+        "download": "Descargar",
+        "backoffice": "Backoffice",
+        "logout": "Cerrar sesión",
+        "profile": "Perfil",
+        "coins": "fichas"
+    },
+    "login": {
+        "avatar_label": "Avatar",
+        "email_label": "Correo electrónico",
+        "email_placeholder": "Escribe tu correo electrónico",
+        "password_label": "Contraseña",
+        "password_placeholder": "Escribe tu contraseña",
+        "first_name_label": "Nombre",
+        "first_name_placeholder": "Escribe tu nombre",
+        "last_name_label": "Apellido",
+        "last_name_placeholder": "Escribe tu apellido",
+        "login_button": "Iniciar sesión",
+        "forgot_password": "¿Olvidaste tu contraseña?",
+        "register_button": "Registrarse",
+        "form_has_errors": "Por favor, revisa los errores en el formulario",
+        "wrong_password": "La contraseña es incorrecta",
+        "user_not_found": "El usuario no existe",
+        "cant_fetch_user": "No se ha podido recuperar el usuario",
+        "login_google": "Continuar con google",
+        "first_name_required": "El nombre es obligatorio",
+        "last_name_required": "El apellido es obligatorio",
+        "email_required": "El correo electrónico es obligatorio",
+        "password_required": "La contraseña es obligatoria",
+        "first_name_length": "El nombre debe tener al menos 4 caracteres",
+        "last_name_length": "El apellido debe tener al menos 4 caracteres",
+        "password_length": "La contraseña debe tener al menos 8 caracteres",
+        "email_invalid": "El correo electrónico no es válido",
+        "password_lower": "La contraseña debe tener al menos una letra minúscula",
+        "password_upper": "La contraseña debe tener al menos una letra mayúscula",
+        "password_number": "La contraseña debe tener al menos un número",
+        "user_already_exists": "El usuario ya existe",
+        "can_not_send_email": "No se ha podido enviar el correo electrónico"
+    },
+    "fileInput": {
+        "invalid_extension": "El archivo debe ser una imagen",
+        "drag_active": "Suelta el archivo aquí...",
+        "drag_inactive": "Arrastra un archivo, o haz clic para seleccionar uno"
+    },
+    "resetPassword": {
+        "send_button": "Enviar el correo",
+        "title": "Restablecer la contraseña",
+        "description": "Introduce tu correo electrónico y te enviaremos un enlace para restablecer tu contraseña",
+        "success_message": "Se ha enviado un correo electrónico a tu dirección de correo electrónico con un enlace para restablecer tu contraseña,\npor favor, comprueba tu bandeja de entrada.\nSi no lo encuentras, comprueba tu carpeta de spam.\nYa puedes cerrar esta ventana.",
+        "callback" : {
+            "title": "Introduce tu nueva contraseña",
+            "submit_button": "Restablecer la contraseña",
+            "can_not_reset_password": "No se ha podido restablecer la contraseña"
+        }
+    },
+    "profile": {
+        "title": "Modifica tu perfil personal",
+        "save_changes": "Guardar cambios",
+        "your_coins": "Tienes {coins} fichas",
+        "buy_coins": "¿Quieres comprar más fichas?",
+        "change_password": "¿Quieres cambiar tu contraseña?",
+        "user_not_updated": "No se ha podido actualizar el usuario",
+        "update_success": "El usuario se ha modificado correctamente",
+        "delete_user": "Borrar cuenta"
+    },
+    "buy": {
+        "title": "Aqui puedes comprar mas fichas",
+        "card": {
+            "button": "Comprar {coins} fichas"
+        }
+    },
+    "download": {
+        "title": "Descarga nuestro software gratuito y comienza a jugar en el casino online",
+        "description": "Obtén acceso a todos nuestros juegos y características especiales al descargar nuestro programa para PC. ¡Es fácil y rápido!",
+        "button": "Descargar para Windows"
+    },
+    "home": {
+        "get_started": "Empieza a jugar",
+        "description": "El casino para los mas persicazes"
+    }
+}

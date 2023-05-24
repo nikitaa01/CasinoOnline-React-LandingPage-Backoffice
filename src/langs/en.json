@@ -1,0 +1,85 @@
+{
+    "nav": {
+        "home": "Pixel Casino",
+        "buy": "Buy",
+        "login": "Login",
+        "download": "Download",
+        "backoffice": "Backoffice",
+        "logout": "Logout",
+        "profile": "Profile",
+        "coins": "coins"
+    },
+    "login": {
+        "avatar_label": "Avatar",
+        "email_label": "Email",
+        "email_placeholder": "Enter your email",
+        "password_label": "Password",
+        "password_placeholder": "Enter your password",
+        "first_name_label": "First Name",
+        "first_name_placeholder": "Enter your first name",
+        "last_name_label": "Last Name",
+        "last_name_placeholder": "Enter your last name",
+        "login_button": "Login",
+        "forgot_password": "Forgot Password?",
+        "register_button": "Register",
+        "form_has_errors": "Please check the errors in the form",
+        "wrong_password": "Incorrect password",
+        "user_not_found": "User not found",
+        "cant_fetch_user": "Unable to retrieve user",
+        "login_google": "Continue with Google",
+        "first_name_required": "First name is required",
+        "last_name_required": "Last name is required",
+        "email_required": "Email is required",
+        "password_required": "Password is required",
+        "first_name_length": "First name should be at least 4 characters long",
+        "last_name_length": "Last name should be at least 4 characters long",
+        "password_length": "Password should be at least 8 characters long",
+        "email_invalid": "Invalid email",
+        "password_lower": "Password should contain at least one lowercase letter",
+        "password_upper": "Password should contain at least one uppercase letter",
+        "password_number": "Password should contain at least one number",
+        "user_already_exists": "User already exists",
+        "can_not_send_email": "Unable to send email"
+    },
+    "fileInput": {
+        "invalid_extension": "File must be an image",
+        "drag_active": "Drop file here...",
+        "drag_inactive": "Drag a file or click to select one"
+    },
+    "resetPassword": {
+        "send_button": "Send email",
+        "title": "Reset Password",
+        "description": "Enter your email and we'll send you a link to reset your password",
+        "success_message": "An email has been sent to your email address with a link to reset your password.\nPlease check your inbox.\nIf you don't find it, check your spam folder.\nYou may now close this window.",
+        "callback": {
+            "title": "Enter your new password",
+            "submit_button": "Reset password",
+            "can_not_reset_password": "Unable to reset password"
+        }
+    },
+    "profile": {
+        "title": "Edit your personal profile",
+        "save_changes": "Save changes",
+        "your_coins": "You have {coins} coins",
+        "buy_coins": "Want to buy more coins?",
+        "change_password": "Want to change your password?",
+        "user_not_updated": "Unable to update user",
+        "update_success": "User updated successfully",
+        "delete_user": "Delete acount"
+    },
+    "buy": {
+        "title": "Buy more coins here",
+        "card": {
+            "button": "Buy {coins} coins"
+        }
+    },
+    "download": {
+        "title": "Download Our Free Software and Start Playing at the Online Casino Today",
+        "description": "Get access to all of our games and exclusive features by downloading our PC program. It's easy and quick!",
+        "button": "Download for Windows"
+    },
+    "home": {
+        "get_started": "Get started playing",
+        "description": "The casino for the more discering"
+    }
+}
